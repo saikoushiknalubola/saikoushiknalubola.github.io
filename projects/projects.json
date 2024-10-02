@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Movie Recommendation System",
+    "desc": "Movie Recommendation System using Python, leveraging the power of Kaggle datasets",
+    "image": "instagrammern",
+    "category": "mern",
+    "links": {
+      "view": "https://medium.com/analytics-vidhya/movie-recommendation-system-python-flask-web-application-heroku-deployment-7e39492b640c",
+      "code": "https://github.com/saikoushiknalubola/Movie-Recommendation-System"
+    }
+  },
+  {
+    "name": "Advanced Ev Motorcycle",
+    "desc": "Converted old combustion vehicle to modern electric model with custom drivetrain and advanced energy systems.",
+    "image": "flipkartmern",
+    "category": "mern",
+    "links": {
+      "view": "https://www.etvbharat.com/te/!state/bike-made-by-vmr-polytechnic-students-in-hanamkonda-district-rampur-polytechnic-students-tgs24050804987",
+      "code": "https://youtu.be/6JBx7ZxX1io?si=0XDO9bj2dVHt1Pii"
+    }
+  },
+  {
+    "name": "ResumeGen",
+    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "view": "https://resumegenx.netlify.app/",
+      "code": "https://github.com/jigar-sable/resumegen"
+    }
+  }
+]
